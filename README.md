@@ -3,18 +3,25 @@
 
 
 Device : Dell XPS 13 9360
+
 CPU : Intel i7-8550U
+
 GPU : Intel UHD 620
+
 RAM : 8 GB
+
 Sound : Realtek ALC256 (ALC3246)
+
 SSD : Sumsung PM961 256 gb
+
 Display : FHD (1920x1080), non touch
+
 Wireless Card : Swapped the original Killer 1535 with DW1830 (三天线只用了两根)
 
 
  
 
-2022-03-17 Update
+## 2022-03-17 Update
 
  
 EFI-1.0 successful
@@ -26,7 +33,7 @@ MacOS version: Big Sur 11.2.3
  
 
 
-Acknowledgement 致谢
+## Acknowledgement 致谢
 
  
 OpenCore: 
