@@ -27,7 +27,9 @@ Wireless Card : Swapped the original Killer 1535 with DW1830 (原网卡更换DW1
 EFI-1.0 successful
 
 BIOS : 2.9.0
+
 OpenCore version : 0.7.8
+
 MacOS version: Big Sur 11.2.3
  
  
