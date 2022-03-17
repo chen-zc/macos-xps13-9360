@@ -16,7 +16,7 @@ SSD : Sumsung PM961 256 gb
 
 Display : FHD (1920x1080), non touch
 
-Wireless Card : Swapped the original Killer 1535 with DW1830 (三天线只用了两根)
+Wireless Card : Swapped the original Killer 1535 with DW1830 (原网卡更换DW1830，三天线只用了两根)
 
 
  
