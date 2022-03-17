@@ -27,7 +27,8 @@ Acknowledgement 致谢
 OpenCore: 
 https://dortania.github.io/OpenCore-Install-Guide/
 
-Chinese Version OpenCore Tutorial 中文版搭建教程by国光，视频教程:
+Chinese Version OpenCore Tutorial 
+中文版搭建教程by国光，视频教程:
 https://apple.sqlsec.com
 https://www.bilibili.com/video/BV1yq4y1o7cT
 
