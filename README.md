@@ -18,8 +18,14 @@ Display : FHD (1920x1080), non touch
 
 Wireless Card : Swapped the original Killer 1535 with DW1830 (原网卡更换DW1830，三天线只用了两根)
 
-
+## Existing problems 存在问题
  
+- Bluetooth problem 蓝牙不工作: fixed in EFI V2.0，在EFI2.0中得到修复
+- Earphone does not work 耳机孔不工作 : see below 见下面解决
+ 
+## 2022-03-18 Update
+
+
 
 ## 2022-03-17 Update
 
