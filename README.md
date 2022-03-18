@@ -23,6 +23,7 @@ Wireless Card : Swapped the original Killer 1535 with DW1830 (原网卡更换DW1
 - Bluetooth problem 蓝牙不工作: fixed in EFI V2.0，在EFI2.0中得到修复
 - Earphone does not work 耳机孔不工作 : see below 见下面解决
 - USB-C not recognize hard disks like SSD, iPhone, but can be used as HDMI output and charging
+- SD card reader: turned off in BIOS, I am not going to fix this temporarily since I don't use it
  
 ## 2022-03-18 Update
 
