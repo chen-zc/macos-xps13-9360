@@ -22,9 +22,21 @@ Wireless Card : Swapped the original Killer 1535 with DW1830 (原网卡更换DW1
  
 - Bluetooth problem 蓝牙不工作: fixed in EFI V2.0，在EFI2.0中得到修复
 - Earphone does not work 耳机孔不工作 : see below 见下面解决
+- USB-C not recognize hard disks like SSD, iPhone, but can be used as HDMI output and charging
  
 ## 2022-03-18 Update
 
+EFI-2.0 successful
+
+Fixed bluetooth problem by adding kexts 
+
+----------
+
+BIOS : 2.9.0
+
+OpenCore version : 0.7.8
+
+MacOS version: Big Sur 11.2.3
 
 
 ## 2022-03-17 Update
