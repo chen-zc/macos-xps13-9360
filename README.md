@@ -32,6 +32,15 @@ EFI-3.0
 
 Update kext versions
 
+Update MacOS to 11.6.5
+
+----------
+
+BIOS : 2.9.0
+
+OpenCore version : 0.7.8
+
+MacOS version: Big Sur 11.6.5
  
 ## 2022-03-18 Update
 
@@ -54,6 +63,9 @@ MacOS version: Big Sur 11.2.3
 
  
 EFI-1.0 successful
+
+----------
+
 
 BIOS : 2.9.0
 
